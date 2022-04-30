@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(255, 235, 205, 0.253) !important;
+}
+
+p {
+  text-align: justify;
+}
+
+.reference {
+  font-style: italic;
+  font-size: smaller;
+}
